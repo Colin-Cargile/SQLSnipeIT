@@ -1,5 +1,5 @@
 # SQLSnipeIT
-Tested Working on v6.1.2
+Tested Working on v6.3.3
 
 ## Warning this is still in testing, while all features seem to be working. There could still be bugs present so use at your own risk.
 
