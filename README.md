@@ -37,3 +37,6 @@ DB_DATABASE=mydbname;TrustServerCertificate=true
 
 Finally copy the modified files to snipe-it\database\migrations
 replace the existing files.
+
+Snipe-it doesnt always play nice with the preset datatypes. In many cases you may have to edit the datatypes it creates and change them from nchar to varchar such as in table settings column skin. 
+havent tested if everything works.
